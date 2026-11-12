@@ -1,0 +1,1 @@
+No real-world URL dataset is bundled. The app uses clearly labelled synthetic teaching examples generated in phishguard/detector.py. Replace with a licensed, documented dataset for meaningful real-world evaluation.
